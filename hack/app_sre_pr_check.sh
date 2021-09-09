@@ -2,4 +2,4 @@
 
 #set -ex
 
-make IMAGE_REPOSITORY=${IMAGE_REPOSITORY:-app-sre} build 
+make IMAGE_REPOSITORY=${IMAGE_REPOSITORY:-app-sre} validation build
